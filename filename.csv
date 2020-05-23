@@ -1,6 +1,6 @@
 ,name,gender,city,email,family status
 0,Jackie Chan,m,Netanya,d1@example.org,single
-1,Bruce Lee,f,Tel-Aviv,B2@example.org,single
+1,Bruce Lee,m,Tel-Aviv,B2@example.org,single
 2,Silvester Stalone,m,Ariel,e3@example.org,married
 3,James Bond,m,Kefar Sava,e4@example.org,married
 4,Kill Bill,f,Raanana,e5@example.org,in relationships

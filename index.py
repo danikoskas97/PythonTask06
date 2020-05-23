@@ -8,6 +8,7 @@ col_names = ['name',
              'city',
              'email',
              'family status']
+
 # define people with all col atribute
 people = [
     ['Jackie Chan', 'm', 'Netanya', 'd1@example.org', 'single'],
