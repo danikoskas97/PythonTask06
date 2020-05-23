@@ -11,12 +11,12 @@ col_names = ['name',
 # define people with all col atribute
 people = [
     ['Jackie Chan', 'm', 'Netanya', 'd1@example.org', 'single'],
-    ['Bruce Lee', 'f', 'Tel-Aviv', 'B2@example.org', 'single'],
+    ['Bruce Lee', 'm', 'Tel-Aviv', 'B2@example.org', 'single'],
     ['Silvester Stalone', 'm', 'Ariel', 'e3@example.org', 'married'],
     ['James Bond', 'm', 'Kefar Sava', 'e4@example.org', 'married'],
     ['Kill Bill', 'f', 'Raanana', 'e5@example.org', 'in relationships'],
     ['Jason Statam', 'm', 'Raanana', 'e6@example.org', 'in relationships'],
-    ['Jean-claude Vandam', 'm', 'Raanana', 'e7@example.org', 'married']
+    ['Jean-claude Vandam', 'm', 'Raanana', 'e7@example.org', 'married'],
 ]
 # define name of the file
 filename = 'filename.csv'
