@@ -1,3 +1,4 @@
-# triangle of pascal
+# Triangle of pascal
 
-
+def pascal():
+    pass
