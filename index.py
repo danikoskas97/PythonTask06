@@ -2,7 +2,6 @@ import pandas as pd
 import pathlib
 import csv
 
-
 col_names = ['name',
              'gender',
              'city',
@@ -22,7 +21,7 @@ filename = 'filename.csv'
 file = pd.DataFrame(people, columns=col_names)
 file.to_csv(filename, encoding="utf-8")
 print('End of the csv file creation')
-print(f'At {pathlib.Path(__file__).parent.absolute()}\{filename}.')
+print(f'At {pathlib.Path(__file__).parent.absolute()} / {filename}.')
 # =======
 #
 # read the file
