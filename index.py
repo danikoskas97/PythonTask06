@@ -3,6 +3,7 @@ import pathlib
 import csv
 
 # define col name
+
 col_names = ['name',
              'gender',
              'city',
@@ -61,3 +62,4 @@ print(' --- file read with Panda module --- ')
 # read with Panda
 df = pd.read_csv(filename, encoding="utf-8")
 print('end')
+
